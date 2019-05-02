@@ -1,2 +1,0 @@
-# BackendSanitaria
-Created with CodeSandbox
